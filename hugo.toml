@@ -1,3 +1,64 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://blog.francoispro.com"
+disqusShortname = ""
+enableGitInfo = true
+enableRobotsTXT = true
+hasCJKLanguage = true
+languageCode = "en"
+rssLimit = 10
+theme = "hugo-texify3"
+title = "Yoann FRANCOIS / DevOps - Networking - AI"
+	
+[pagination]
+pagerSize = 5
+
+[taxonomies]
+tags = "tags"
+categories = "categories"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+title="Yoann FRANCOIS's blog"
+author = "Yoann FRANCOIS"
+description = "This is the professional blogging site of Yoann FRANCOIS. You will find here articles about personal projects and research related to networking, devops, cloud, and AI."
+footnote = """
+Powered by  <a class=link href=https://gohugo.io target=_blank rel=noopener>Hugo</a> | 
+Theme <a class=link href=https://github.com/michaelneuper/hugo-texify3 target=_blank rel=noopener>TeXify3</a>
+"""
+customCSS = ["css/custom.css"]
+customJS = []
+dateFormat = "2 January 2006"
+emphasisWithDots = true
+toc = true
+rootFontSize = "105%"
+math = true
+enableDuckDuckGoSearchBox = true
+numberedSubtitles = true
+
+  [params.sharingbuttons]
+  facebook = true
+  twitter = true
+  email = true
+  linkedin = true
+  reddit = true
+  whatsapp = true
+  hackernews = true
+  telegram = true
+  [params.buymeacoffee]
+  code = ""
+
+  [params.commentEngine]
+  code = ""
+
+  [[menu.main]]
+  identifier = "posts"
+  name = "Blog"
+  url = "/posts/"
+  weight = 1
+
+  [[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 2

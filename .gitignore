@@ -1,0 +1,13 @@
+# Hugo build output and caches
+public/
+resources/_gen/
+.hugo_build.lock
+
+# Node
+node_modules/
+
+# Editor and OS clutter
+.DS_Store
+*.swp
+.vscode/
+.idea/
