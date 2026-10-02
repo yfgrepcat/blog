@@ -1,4 +1,4 @@
-baseURL = "https://blog.francoispro.com"
+baseURL = "https://www.blog.francoispro.com"
 disqusShortname = ""
 enableGitInfo = true
 enableRobotsTXT = true
