@@ -6,7 +6,7 @@ hasCJKLanguage = true
 languageCode = "en"
 rssLimit = 10
 theme = "hugo-texify3"
-title = "Yoann FRANCOIS / DevOps - Networking - AI"
+title = "NetDevAiCloud[...]Ops"
 	
 [pagination]
 pagerSize = 5
@@ -19,7 +19,7 @@ categories = "categories"
 unsafe = true
 
 [params]
-title="The NetDevAICloud<insert-buzzword>Ops's blog"
+title="The NetDevAICloud[...]Ops's blog"
 author = "Yoann FRANCOIS"
 description = "This is the professional blogging site of Yoann FRANCOIS. You will find here articles about personal projects and research related to networking, devops, cloud, and AI."
 footnote = """
