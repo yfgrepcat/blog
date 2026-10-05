@@ -35,7 +35,7 @@ More on the [About page]({{< relref "/about" >}}).
 
 ## How this site is made
 
-This blog is a static site built with Hugo and hosted on AWS. The full story is in the next post: [How this blog is built and deployed]({{< relref "how-this-blog-is-deployed" >}}).
+This blog is a static site built with Hugo and hosted on AWS. The full story is in the next post: "How this blog is built and deployed".
 
 ## Get in touch
 
