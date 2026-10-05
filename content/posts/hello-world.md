@@ -4,21 +4,15 @@ draft = false
 title = 'Hello World'
 +++
 
-Welcome.
-
-<br>
-
+Welcome.\
 I know blogs are no longer a trend, and it's ok. This will allow me to post about technical work and overall tech world shifts.\
 This is all about trying to keep an up-to-date knowledge with the latest advancements in the field and some personal experiments.
-
-<br>
-
 « La lutte elle-même vers les sommets suffit à remplir un cœur d'homme. Il faut imaginer Sisyphe heureux. »\
 — Albert CAMUS, Le mythe de Sisyphe (your average tech guy)
 
 ## Who I am
 
-I am a MSc student in Computer Science and Networking and also work part-time as an automation engineer.\ 
+I am a MSc student in Computer Science and Networking and also work part-time as an automation engineer.\
 More on the [About page]({{< relref "/about" >}}).
 
 ## Why this blog
@@ -29,9 +23,9 @@ More on the [About page]({{< relref "/about" >}}).
 
 ## What to expect
 
-- **[Topic one]:** DevOps stuff (perhaps more Ops than Dev)
-- **[Topic two]:** Networking stuff (troubleshooting, CCNP, modern architectures, observability)
-- **[Topic three]:** "AI" (LLM, RAG, simple ML projects, Local AI)
+- **DevOps stuff** (perhaps more Ops than Dev)
+- **Networking stuff** (troubleshooting, CCNP, modern architectures, observability)
+- **"AI"** (LLM, RAG, simple ML projects, Local AI, costs)
 
 ## How this site is made
 
