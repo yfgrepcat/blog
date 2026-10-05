@@ -19,7 +19,7 @@ categories = "categories"
 unsafe = true
 
 [params]
-title="Yoann FRANCOIS's blog"
+title="The NetDevAICloud<insert-buzzword>Ops's blog"
 author = "Yoann FRANCOIS"
 description = "This is the professional blogging site of Yoann FRANCOIS. You will find here articles about personal projects and research related to networking, devops, cloud, and AI."
 footnote = """
